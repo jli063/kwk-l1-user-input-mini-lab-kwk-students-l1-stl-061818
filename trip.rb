@@ -19,5 +19,5 @@ eat=gets.chomp
 puts "You would like to eat at #{eat}"
 puts "How many nights would you like to stay?"
 nights=gets.chomp.to_s
-#puts "You would like to stay #{nights} nights"
+puts "You would like to stay #{nights} nights"
 puts "You're staying at #{stay} and eating at #{eat} for #{nights} nights."
