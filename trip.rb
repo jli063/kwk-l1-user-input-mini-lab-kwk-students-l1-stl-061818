@@ -15,8 +15,8 @@ puts "Let's plan your trip! Where would you like to stay?"
 stay=gets.chomp.capitalize
 puts "You would like to stay at #{stay}"
 puts "Where would you like to eat?"
-eats=gets.chomp
-puts "You would like to eat at #{eats}"
+eat=gets.chomp
+puts "You would like to eat at #{eat}"
 puts "How many nights would you like to stay?"
 nights=gets.chomp.to_s
 #puts "You would like to stay #{nights} nights"
